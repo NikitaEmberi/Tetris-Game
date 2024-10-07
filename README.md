@@ -69,9 +69,6 @@ https://archive.eksworkshop.com/intermediate/290_argocd/install/
 
 ```
 
-<h1 align="center">
-  <img alt="React tetris " title="#React tetris desktop" src="./images/img2.png" />
-</h1>
 
 <h1 align="center">
   <img alt="React tetris " title="#React tetris desktop" src="./images/img3.png" />
