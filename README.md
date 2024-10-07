@@ -68,3 +68,31 @@ https://archive.eksworkshop.com/intermediate/290_argocd/install/
     }
 
 ```
+
+<h1 align="center">
+  <img alt="React tetris " title="#React tetris desktop" src="./images/img2.jpg" />
+</h1>
+
+<h1 align="center">
+  <img alt="React tetris " title="#React tetris desktop" src="./images/img3.jpg" />
+</h1>
+
+<h1 align="center">
+  <img alt="React tetris " title="#React tetris desktop" src="./images/img4.jpg" />
+</h1>
+
+<h1 align="center">
+  <img alt="React tetris " title="#React tetris desktop" src="./images/img5.jpg" />
+</h1>
+
+<h1 align="center">
+  <img alt="React tetris " title="#React tetris desktop" src="./images/img6.jpg" />
+</h1>
+
+<h1 align="center">
+  <img alt="React tetris " title="#React tetris desktop" src="./images/img7.jpg" />
+</h1>
+
+<h1 align="center">
+  <img alt="React tetris " title="#React tetris desktop" src="./images/img8.jpg" />
+</h1>
