@@ -72,7 +72,7 @@ https://archive.eksworkshop.com/intermediate/290_argocd/install/
     }
 
 ```
-
+Link to Version 2 repository: https://github.com/NikitaEmberi/Tetris-Game-v2
 
 <h1 align="center">
   <img alt="React tetris " title="#React tetris desktop" src="./images/img3.png" />
@@ -98,4 +98,4 @@ https://archive.eksworkshop.com/intermediate/290_argocd/install/
   <img alt="React tetris " title="#React tetris desktop" src="./images/img8.png" />
 </h1>
 
-CREDITS TO: [(Article](https://aakibkhan1.medium.com/project-9-deployment-of-tetris-game-on-kubernetes-and-automating-it-with-argo-cd-and-terraform-via-7ca8b3068378)]
+CREDITS TO: (Article](https://aakibkhan1.medium.com/project-9-deployment-of-tetris-game-on-kubernetes-and-automating-it-with-argo-cd-and-terraform-via-7ca8b3068378)]
