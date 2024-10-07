@@ -6,6 +6,10 @@ Tetris game built with React
   <img alt="React tetris " title="#React tetris desktop" src="./images/game.jpg" />
 </h1>
 
+- Deployed multiple versions of a Tetris game on AWS EKS using Terraform for infrastructure setup and Jenkins for CI/CD pipeline automation.
+- Implemented Argo CD for continuous delivery, enabling efficient deployment and version management of containerized applications.
+- Established a complete CI/CD pipeline that included building Docker images, pushing to Docker Hub, and managing application updates via GitHub.
+- Achieved seamless automation of application deployment processes, enhancing the efficiency of development workflows.
 
 Use Sonarqube block 
 ```
