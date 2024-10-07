@@ -70,29 +70,29 @@ https://archive.eksworkshop.com/intermediate/290_argocd/install/
 ```
 
 <h1 align="center">
-  <img alt="React tetris " title="#React tetris desktop" src="./images/img2.jpg" />
+  <img alt="React tetris " title="#React tetris desktop" src="./images/img2.png" />
 </h1>
 
 <h1 align="center">
-  <img alt="React tetris " title="#React tetris desktop" src="./images/img3.jpg" />
+  <img alt="React tetris " title="#React tetris desktop" src="./images/img3.png" />
 </h1>
 
 <h1 align="center">
-  <img alt="React tetris " title="#React tetris desktop" src="./images/img4.jpg" />
+  <img alt="React tetris " title="#React tetris desktop" src="./images/img4.png" />
 </h1>
 
 <h1 align="center">
-  <img alt="React tetris " title="#React tetris desktop" src="./images/img5.jpg" />
+  <img alt="React tetris " title="#React tetris desktop" src="./images/img5.png" />
 </h1>
 
 <h1 align="center">
-  <img alt="React tetris " title="#React tetris desktop" src="./images/img6.jpg" />
+  <img alt="React tetris " title="#React tetris desktop" src="./images/img6.png" />
 </h1>
 
 <h1 align="center">
-  <img alt="React tetris " title="#React tetris desktop" src="./images/img7.jpg" />
+  <img alt="React tetris " title="#React tetris desktop" src="./images/img7.png" />
 </h1>
 
 <h1 align="center">
-  <img alt="React tetris " title="#React tetris desktop" src="./images/img8.jpg" />
+  <img alt="React tetris " title="#React tetris desktop" src="./images/img8.png" />
 </h1>
